@@ -1,0 +1,20 @@
+# Tema oscuro de la aplicación de administración, con los colores del logotipo
+# de Mercagoal (fondo verde muy oscuro, acento menta).
+[theme]
+base = "dark"
+primaryColor = "#3DDC84"
+backgroundColor = "#10231C"
+secondaryBackgroundColor = "#1A3329"
+textColor = "#E6EFEA"
+linkColor = "#3DDC84"
+borderColor = "#2A4A3D"
+font = "Outfit:https://fonts.googleapis.com/css2?family=Outfit:wght@300..700&display=swap, sans-serif"
+baseRadius = "10px"
+chartCategoricalColors = ["#3DDC84", "#F5B841", "#5FA8F5", "#1A7F4B", "#F2706B", "#B28CF5", "#9FB3AA", "#F58BC6", "#2DD4BF", "#F7954A"]
+
+[theme.sidebar]
+backgroundColor = "#0B1A14"
+secondaryBackgroundColor = "#1A3329"
+
+[client]
+toolbarMode = "minimal"

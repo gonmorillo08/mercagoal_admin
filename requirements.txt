@@ -1,0 +1,9 @@
+streamlit
+plotly
+requests>=2.31
+pandas>=2.0
+pyarrow>=14.0
+scikit-na>=0.3.0
+scikit-learn>=1.3
+scipy>=1.10
+networkx>=3.0

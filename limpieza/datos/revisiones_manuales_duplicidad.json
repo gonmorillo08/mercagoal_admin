@@ -1,0 +1,437 @@
+[
+  {
+    "club_a": "AEK Athens",
+    "club_b": "Atromitos Athens U19",
+    "tipo": "ninguna relación"
+  },
+  {
+    "club_a": "AEK Athens",
+    "club_b": "Panathinaikos Athens B",
+    "tipo": "ninguna relación"
+  },
+  {
+    "club_a": "AEK Athens",
+    "club_b": "Panathinaikos Athens U19",
+    "tipo": "ninguna relación"
+  },
+  {
+    "club_a": "AEK Athens",
+    "club_b": "Panathinaikos Athens U20",
+    "tipo": "ninguna relación"
+  },
+  {
+    "club_a": "APOEL Nicosia",
+    "club_b": "PO Xylotymbou",
+    "tipo": "ninguna relación"
+  },
+  {
+    "club_a": "Akademia Lokomotiv Moskau",
+    "club_b": "Akademia Lokomotiv Moskau U17",
+    "tipo": "posible duplicidad"
+  },
+  {
+    "club_a": "América FC",
+    "club_b": "América Mineiro U20",
+    "tipo": "posible filial"
+  },
+  {
+    "club_a": "Arsenal Fútbol Club",
+    "club_b": "Sacachispas Fútbol Club",
+    "tipo": "ninguna relación"
+  },
+  {
+    "club_a": "Arsenal Fútbol Club II",
+    "club_b": "Sacachispas Fútbol Club",
+    "tipo": "ninguna relación"
+  },
+  {
+    "club_a": "Atlético Paranaense",
+    "club_b": "Athletico Paranaense U20",
+    "tipo": "posible duplicidad"
+  },
+  {
+    "club_a": "Atromitos Athens",
+    "club_b": "AEK Athens B",
+    "tipo": "ninguna relación"
+  },
+  {
+    "club_a": "Atromitos Athens",
+    "club_b": "AEK Athens U19",
+    "tipo": "ninguna relación"
+  },
+  {
+    "club_a": "Atromitos Athens",
+    "club_b": "Panathinaikos Athens B",
+    "tipo": "ninguna relación"
+  },
+  {
+    "club_a": "Atromitos Athens",
+    "club_b": "Panathinaikos Athens U19",
+    "tipo": "ninguna relación"
+  },
+  {
+    "club_a": "Atromitos Athens",
+    "club_b": "Panathinaikos Athens U20",
+    "tipo": "ninguna relación"
+  },
+  {
+    "club_a": "Atromitos Athens",
+    "club_b": "Panionios Athens",
+    "tipo": "ninguna relación"
+  },
+  {
+    "club_a": "Borussia Dortmund II",
+    "club_b": "Türkspor Dortmund",
+    "tipo": "ninguna relación"
+  },
+  {
+    "club_a": "Borussia Dortmund U19",
+    "club_b": "Türkspor Dortmund",
+    "tipo": "ninguna relación"
+  },
+  {
+    "club_a": "CA River Plate Montevideo",
+    "club_b": "Liverpool FC Montevideo B",
+    "tipo": "ninguna relación"
+  },
+  {
+    "club_a": "CF América",
+    "club_b": "CF Atlètic Amèrica",
+    "tipo": "ninguna relación"
+  },
+  {
+    "club_a": "CF Estrela Amadora",
+    "club_b": "CF Estrela Amadora SAD",
+    "tipo": "posible duplicidad"
+  },
+  {
+    "club_a": "CF Estrela Amadora",
+    "club_b": "Clube Futebol Estrela da Amadora",
+    "tipo": "posible duplicidad"
+  },
+  {
+    "club_a": "CF Estrela Amadora SAD",
+    "club_b": "CF Estrela Amadora U23",
+    "tipo": "posible filial"
+  },
+  {
+    "club_a": "CF Estrela Amadora U23",
+    "club_b": "Clube Desportivo Estrela da Amadora",
+    "tipo": "posible filial"
+  },
+  {
+    "club_a": "Cassino Calcio 1924",
+    "club_b": "Anzio Calcio 1924",
+    "tipo": "ninguna relación"
+  },
+  {
+    "club_a": "Clube Atlético Bragantino (SP)",
+    "club_b": "Clube Atlético Paranaense B",
+    "tipo": "ninguna relación"
+  },
+  {
+    "club_a": "Clube Atlético Bragantino (SP)",
+    "club_b": "Clube Atlético Penapolense (SP)",
+    "tipo": "ninguna relación"
+  },
+  {
+    "club_a": "Clube Atlético Bragantino (SP)",
+    "club_b": "Clube Atlético do Porto",
+    "tipo": "ninguna relación"
+  },
+  {
+    "club_a": "Clube Atlético Bragantino (SP)",
+    "club_b": "RB Bragantino B",
+    "tipo": "posible filial"
+  },
+  {
+    "club_a": "Clube Atlético Bragantino (SP)",
+    "club_b": "RB Bragantino U20",
+    "tipo": "posible filial"
+  },
+  {
+    "club_a": "Clube Atlético Mineiro",
+    "club_b": "América Mineiro U20",
+    "tipo": "ninguna relación"
+  },
+  {
+    "club_a": "Clube Atlético Mineiro",
+    "club_b": "Clube Atlético Bragantino (SP)",
+    "tipo": "ninguna relación"
+  },
+  {
+    "club_a": "Clube Atlético Mineiro",
+    "club_b": "Clube Atlético Linense (SP)",
+    "tipo": "ninguna relación"
+  },
+  {
+    "club_a": "Clube Atlético Mineiro",
+    "club_b": "Clube Atlético Paranaense B",
+    "tipo": "ninguna relación"
+  },
+  {
+    "club_a": "Clube Atlético Mineiro",
+    "club_b": "Clube Atlético do Porto",
+    "tipo": "ninguna relación"
+  },
+  {
+    "club_a": "Clube Atlético Penapolense (SP)",
+    "club_b": "Clube Atlético Paranaense B",
+    "tipo": "ninguna relación"
+  },
+  {
+    "club_a": "Clube Desportivo Estrela da Amadora",
+    "club_b": "CF Estrela Amadora B",
+    "tipo": "posible duplicidad"
+  },
+  {
+    "club_a": "Clube Futebol Estrela da Amadora",
+    "club_b": "CF Estrela Amadora U23",
+    "tipo": "posible filial"
+  },
+  {
+    "club_a": "FC Barcelona",
+    "club_b": "Espanyol Barcelona U19",
+    "tipo": "ninguna relación"
+  },
+  {
+    "club_a": "FC Sion",
+    "club_b": "FC Monthey",
+    "tipo": "ninguna relación"
+  },
+  {
+    "club_a": "Gaziantep FK",
+    "club_b": "Gazisehir Gaziantep FK",
+    "tipo": "posible duplicidad"
+  },
+  {
+    "club_a": "Gaziantepspor",
+    "club_b": "Gaziantepspor U21 (-2020)",
+    "tipo": "posible filial"
+  },
+  {
+    "club_a": "Gazisehir Gaziantep FK",
+    "club_b": "Gaziantep FK U19",
+    "tipo": "posible filial"
+  },
+  {
+    "club_a": "Inter Milan",
+    "club_b": "Inter U23",
+    "tipo": "posible filial"
+  },
+  {
+    "club_a": "Lokomotiv Moscow",
+    "club_b": "Lokomotiv Liski",
+    "tipo": "ninguna relación"
+  },
+  {
+    "club_a": "Lokomotiv Moscow",
+    "club_b": "Lokomotiv Moskau",
+    "tipo": "posible duplicidad"
+  },
+  {
+    "club_a": "Lokomotiv Moscow II",
+    "club_b": "Lokomotiv Liski",
+    "tipo": "ninguna relación"
+  },
+  {
+    "club_a": "Lokomotiv Moskau",
+    "club_b": "Chertanovo 2 Moskau",
+    "tipo": "ninguna relación"
+  },
+  {
+    "club_a": "Lokomotiv Moskau",
+    "club_b": "Chertanovo Moskau II",
+    "tipo": "ninguna relación"
+  },
+  {
+    "club_a": "Lokomotiv Moskau",
+    "club_b": "Lokomotiv Liski",
+    "tipo": "ninguna relación"
+  },
+  {
+    "club_a": "Lokomotiv Moskau",
+    "club_b": "Strogino Moskau II",
+    "tipo": "ninguna relación"
+  },
+  {
+    "club_a": "Lokomotiv Moskau",
+    "club_b": "Torpedo 2 Moskau",
+    "tipo": "ninguna relación"
+  },
+  {
+    "club_a": "Milan Futuro",
+    "club_b": "AC Milan Youth",
+    "tipo": "posible duplicidad"
+  },
+  {
+    "club_a": "NK Celje",
+    "club_b": "NK Publikum Celje",
+    "tipo": "posible duplicidad"
+  },
+  {
+    "club_a": "Olympiakos Nicosia",
+    "club_b": "Olympiakos Chersonisos",
+    "tipo": "ninguna relación"
+  },
+  {
+    "club_a": "Panathinaikos",
+    "club_b": "Panathinaikos FC",
+    "tipo": "posible duplicidad"
+  },
+  {
+    "club_a": "Panathinaikos Athens",
+    "club_b": "AEK Athens B",
+    "tipo": "ninguna relación"
+  },
+  {
+    "club_a": "Panathinaikos Athens",
+    "club_b": "AEK Athens U19",
+    "tipo": "ninguna relación"
+  },
+  {
+    "club_a": "Panathinaikos Athens",
+    "club_b": "Atromitos Athens U19",
+    "tipo": "ninguna relación"
+  },
+  {
+    "club_a": "Panathinaikos Athens",
+    "club_b": "Panathinaikos FC",
+    "tipo": "posible duplicidad"
+  },
+  {
+    "club_a": "Panathinaikos Athens",
+    "club_b": "Panionios Athens",
+    "tipo": "ninguna relación"
+  },
+  {
+    "club_a": "Panionios Athens",
+    "club_b": "AEK Athens B",
+    "tipo": "ninguna relación"
+  },
+  {
+    "club_a": "Panionios Athens",
+    "club_b": "AEK Athens U19",
+    "tipo": "ninguna relación"
+  },
+  {
+    "club_a": "Panionios Athens",
+    "club_b": "Atromitos Athens U19",
+    "tipo": "ninguna relación"
+  },
+  {
+    "club_a": "Panionios Athens",
+    "club_b": "Panathinaikos Athens B",
+    "tipo": "ninguna relación"
+  },
+  {
+    "club_a": "Panionios Athens",
+    "club_b": "Panathinaikos Athens U19",
+    "tipo": "ninguna relación"
+  },
+  {
+    "club_a": "Panionios Athens",
+    "club_b": "Panathinaikos Athens U20",
+    "tipo": "ninguna relación"
+  },
+  {
+    "club_a": "Panionios Athens",
+    "club_b": "Panionios FC",
+    "tipo": "posible duplicidad"
+  },
+  {
+    "club_a": "RCD Espanyol Barcelona",
+    "club_b": "FC Barcelona Atlètic",
+    "tipo": "ninguna relación"
+  },
+  {
+    "club_a": "RCD Espanyol Barcelona",
+    "club_b": "FC Barcelona U18",
+    "tipo": "ninguna relación"
+  },
+  {
+    "club_a": "RCD Espanyol Barcelona",
+    "club_b": "FC Barcelona U19",
+    "tipo": "ninguna relación"
+  },
+  {
+    "club_a": "Racing Club de Montevideo",
+    "club_b": "Liverpool FC Montevideo B",
+    "tipo": "ninguna relación"
+  },
+  {
+    "club_a": "Randers FC",
+    "club_b": "Randers Freja U19",
+    "tipo": "ninguna relación"
+  },
+  {
+    "club_a": "Red Bull Bragantino",
+    "club_b": "Red Bull Brasil (SP)",
+    "tipo": "posible duplicidad"
+  },
+  {
+    "club_a": "Sporting FC ",
+    "club_b": "Sporting FC San José",
+    "tipo": "posible duplicidad"
+  },
+  {
+    "club_a": "Sönderjyske",
+    "club_b": "Sönderjyske Fodbold U19",
+    "tipo": "posible filial"
+  },
+  {
+    "club_a": "Sönderjyske Fodbold",
+    "club_b": "SönderjyskE U19",
+    "tipo": "posible filial"
+  },
+  {
+    "club_a": "Sönderjyske Fodbold",
+    "club_b": "Sönderjyske",
+    "tipo": "posible duplicidad"
+  },
+  {
+    "club_a": "Torpedo Armavir",
+    "club_b": "Torpedo-BelAZ Zhodino II",
+    "tipo": "ninguna relación"
+  },
+  {
+    "club_a": "Torpedo Miass",
+    "club_b": "Torpedo Minsk",
+    "tipo": "ninguna relación"
+  },
+  {
+    "club_a": "Torpedo Moscow",
+    "club_b": "Torpedo-BelAZ Zhodino II",
+    "tipo": "ninguna relación"
+  },
+  {
+    "club_a": "Torpedo Moskau",
+    "club_b": "Chertanovo 2 Moskau",
+    "tipo": "ninguna relación"
+  },
+  {
+    "club_a": "Torpedo Moskau",
+    "club_b": "Chertanovo Moskau II",
+    "tipo": "ninguna relación"
+  },
+  {
+    "club_a": "Torpedo Moskau",
+    "club_b": "Strogino Moskau II",
+    "tipo": "ninguna relación"
+  },
+  {
+    "club_a": "Torpedo Zhodino",
+    "club_b": "Torpedo-BelAZ Zhodino II",
+    "tipo": "posible duplicidad"
+  },
+  {
+    "club_a": "Torpedo-BelAZ Zhodino",
+    "club_b": "Torpedo Zhodino",
+    "tipo": "posible duplicidad"
+  },
+  {
+    "club_a": "Zenit 2 St. Petersburg",
+    "club_b": "Zenit Penza",
+    "tipo": "ninguna relación"
+  }
+]
